@@ -104,8 +104,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/schlossm/passage.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "0eb6a4165f9321d179b5198769fd1cc4f8cd59ec"
+        "branch" : "linux-crypto",
+        "revision" : "a1b5fadc898aee21ac2a544c51ecdebeee8840b9"
       }
     },
     {
